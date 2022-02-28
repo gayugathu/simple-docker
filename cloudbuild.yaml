@@ -1,5 +1,1 @@
-steps:
-- name: 'gcr.io/cloud-builders/docker'
-  args: [ 'build', '-t', 'gcr.io/tefde-gcp-imagerepo-sandbox/simple-docker', '.']
-images:
-- 'gcr.io/tefde-gcp-imagerepo-sandbox/simple-docker'
+
